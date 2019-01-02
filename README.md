@@ -3,8 +3,6 @@
 ### No experience needed!
 
 (C) 2019.
-This project is released under the GNU GPL 3 and the GNU Documentation License 3, wherever applicable.
-For a copy of the license(s), please visit https://fsf.org.
 
 We will use this iPython notebook for our workshop on Python today.
 iPython is a handy way to code and also see the results live and in a
