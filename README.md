@@ -11,4 +11,4 @@ sequential manner.
 To get started, please open the workshop notebook through `Binder` if you
 haven't already, by clicking on the following badge.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/aalok-richmond%2Facm-spiderhacks19-pythonwkshp/master?filepath=pythonwkshp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aalok-sathe/acm-spiderhacks19-pythonwkshp/master?filepath=pythonwkshp.ipynb)
